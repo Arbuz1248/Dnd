@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<people>
+	<Person race = "Человек">
+		<race>Человек</race>
+		<speed>30</speed>
+		<age>до 100</age>
+		<size>средний</size>
+		<specifications>Сил +1, Лов +1, Тел +1, Инт +1, Мдр +1, Хар +1</specifications>
+	</Person>
+	<Person race = "Тифлинг">
+		<race>Тифлинг</race>
+		<speed>30</speed>
+		<age>около 100</age>
+		<size>средний</size>
+		<specifications>Хар +2, Инт +1</specifications>
+	</Person>
+	<Person race = "Дворф">
+		<race>Дворф</race>
+		<speed>25</speed>
+		<age>больше 350</age>
+		<size>средний</size>
+		<specifications>Тел +2</specifications>
+	</Person>
+	<Person race = "Гоблин">
+		<race>Гоблин</race>
+		<speed>30</speed>
+		<age>до 60</age>
+		<size>маленький</size>
+		<specifications>Лов +2, Тел +1</specifications>
+	</Person>
+	<Person race = "Драконорожденный">
+		<race>Драконорожденный</race>
+		<speed>30</speed>
+		<age>до 80</age>
+		<size>средний</size>
+		<specifications>Сил +2, Хар +1</specifications>
+	</Person>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</people>
+
+
+
